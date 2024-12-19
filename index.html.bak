@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<tittle>Minha primeira página</tittle>
+		<meta charset="UTF-8">
+
+	</head>
+	<br>
+	<body>
+		Olá mundo!!!
+	</body>
+	
+	<p>Meu nome é Letícia e quero aprender os conceitos básicos de Desenvolvimento Web.</p>
+	<p>Eu moro no Brasil. Em uma cidade do interior de Minas Gerais.</p>
+	<p>Eu gosto de tocar violão e tenho dois gatos</p>
+
+</html>
